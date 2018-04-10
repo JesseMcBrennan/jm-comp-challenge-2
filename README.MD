@@ -5,8 +5,9 @@ This is the second of our Static Comp project series. I used HTML and CSS to rec
 ## Original
 
 
-<img src="https://github.com/JesseMcBrennan/jm-comp-challenge-2/blob/master/Screen%20Shot%202018-04-09%20at%206.29.58%20PM.png</img>
+<img src="https://github.com/JesseMcBrennan/jm-comp-challenge-2/blob/master/static-comp-challenge-2.jpg"></img>
+
 
 ## My Version
 
-<img src="https://github.com/JesseMcBrennan/jm-comp-challenge-2/blob/master/static-comp-challenge-2.jpg"></img>
+<img src="https://github.com/JesseMcBrennan/jm-comp-challenge-2/blob/master/Screen%20Shot%202018-04-09%20at%206.29.58%20PM.png></img>
